@@ -11,7 +11,7 @@ public class Calc
     }
     public static int Substraction(int a, int b)
     {
-        return a + b;
+        return a + b+a;
     }
 <<<<<<< HEAD
     public static int factorial(int f)

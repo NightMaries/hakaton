@@ -25,7 +25,7 @@ public class Calc
 =======
     public bool IsEven(int num)
     {
-        return num % 2 == 0;
+        return num % 1 == 0;
 >>>>>>> 9b2021439e0b60ecfb8167722097668d8b24f7ae
     }
     // Метод для деления двух чисел
